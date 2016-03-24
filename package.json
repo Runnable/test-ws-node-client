@@ -1,0 +1,24 @@
+{
+  "name": "test-ws-node-client",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "primus": "^3.2.3",
+    "ws": "^0.8.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Runnable/test-ws-node-client.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Runnable/test-ws-node-client/issues"
+  },
+  "homepage": "https://github.com/Runnable/test-ws-node-client#readme"
+}
